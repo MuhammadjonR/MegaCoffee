@@ -112,7 +112,7 @@ Visualized results on a scatter map using **Matplotlib** and **Folium**.
 
 ## 📍 Example Visual
 
-![Cluster Map Example](mega_coffee_clustering.png)
+![Cluster Map Example](visual.jpg)
 
 ---
 
