@@ -141,9 +141,9 @@ Visualized results on a scatter map using **Matplotlib** and **Folium**.
 
 👤 **Muhammadjon Raxmataliev**  
 📍 Data Analyst | Machine Learning Enthusiast  
-📧 [rakhmatalievm@gmail.com]  
-🔗 ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadjon-raxmataliyev-56381b236/))  
-🔗 (https://github.com/MuhammadjonR)
+📧 [[Email]rakhmatalievm@gmail.com]
+🔗 ([Linkedin](https://www.linkedin.com/in/muhammadjon-raxmataliyev-56381b236/))  
+🔗 ([github]https://github.com/MuhammadjonR)
 
 ---
 
