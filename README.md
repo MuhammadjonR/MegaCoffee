@@ -143,7 +143,7 @@ Visualized results on a scatter map using **Matplotlib** and **Folium**.
 📍 Data Analyst | Machine Learning Enthusiast  
 📧 [rakhmatalievm@gmail.com]  
 🔗 ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadjon-raxmataliyev-56381b236/))  
-🔗 [Your GitHub](https://github.com/MuhammadjonR)
+🔗 (https://github.com/MuhammadjonR)
 
 ---
 
